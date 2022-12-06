@@ -70,5 +70,8 @@
         "**/*.exe": true
     },
     "search.useIgnoreFiles": true,
-    "search.useGlobalIgnoreFiles": true
+    "search.useGlobalIgnoreFiles": true,
+    "files.associations": {
+        "stdio.h": "c"
+    }
 }
