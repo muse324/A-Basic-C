@@ -20,17 +20,17 @@ gccコンパイラはMingGWを通して導入します。
 
 ファイルをダブルクリックする
 
-![setup](img/setupfile.png =272x160)
+![setup](img/setupfile.png)
 
 ### 3) MinGW-get セットアップ画面の指示に従う
 
-![install1](img/mingw-get-installer.png =450x348)
+![install1](img/mingw-get-installer.png)
 
 ↑「Install」ボタンを押す↑
 
 <hr>
 
-![install2](img/mingw-get-installer2.png =444x248)
+![install2](img/mingw-get-installer2.png)
 
 ↑各種設定箇所はそのままでok。「Continue」で続ける。
 
