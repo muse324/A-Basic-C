@@ -46,3 +46,7 @@ gccコンパイラはMingGWを通して導入します。
 ![mingw2](img/mingw2.png)
 
 この後は表示されるがままに進める。
+
+<hr>
+
+ここまで到達したら [戻る](README.md)
