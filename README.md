@@ -9,7 +9,7 @@
 Windows 10/11を念頭にしてます
 
 1) PC本体:
-   1) [ ] gcc コンパイラのインストール
+   1) [gcc コンパイラのインストール](./setup_gcc.md)
    2) [ ] 「パス (PATH: 環境変数)を通す」
 2) Visual Studio Code (VSCode)
    1) [ ] VSCodeをインストールする
