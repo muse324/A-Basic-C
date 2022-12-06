@@ -68,5 +68,7 @@
     "files.exclude": {
         "**/*.dSYM": true,
         "**/*.exe": true
-    }
+    },
+    "search.useIgnoreFiles": true,
+    "search.useGlobalIgnoreFiles": true
 }
